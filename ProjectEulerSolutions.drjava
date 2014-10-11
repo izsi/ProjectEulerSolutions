@@ -1,16 +1,18 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <drjava version="drjava-20140826-r5761">
-  <project autorefresh="false" root="" work="">
+  <project autorefresh="false" main="" root="" work="">
     <createjar file=""/>
     <source>
-      <file name="Problem1.java" package="" timestamp="09-Oct-2014 20:42:15">
-        <select from="0" to="0"/>
+      <file active="true" name="Problem1.java" package="" timestamp="10-Oct-2014 00:22:06">
+        <select from="575" to="575"/>
         <scroll column="0" row="0"/>
       </file>
     </source>
     <included/>
     <excluded/>
-    <collapsed/>
+    <collapsed>
+      <path name="./[ External Files ]/"/>
+    </collapsed>
     <classpath/>
     <breakpoints/>
     <watches/>
